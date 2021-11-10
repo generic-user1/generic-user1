@@ -1,6 +1,4 @@
-I create utilities for my own personal use
-
-They will be shared here
+Personal utilities and fun experiments.
 
 <!---
 generic-user1/generic-user1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
